@@ -6,5 +6,5 @@
 [Variational Autoencoderを使った画像の異常検知　後編](https://qiita.com/shinmura0/items/6572d782ad21b15b004e)
 
 # Result
-## ヒートマップによる異常個所の可視化
-### crack
+### ヒートマップによる異常個所の可視化
+#### crack
