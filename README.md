@@ -14,3 +14,9 @@
 ### cut
 ![old_](https://user-images.githubusercontent.com/70367328/92232740-01e89880-eeea-11ea-9b67-aa2a94979d1d.png)
 ![new_](https://user-images.githubusercontent.com/70367328/92232751-057c1f80-eeea-11ea-88d5-cbc696e9fe0a.png)
+
+### hole
+![old_7](https://user-images.githubusercontent.com/70367328/92233632-97385c80-eeeb-11ea-888e-0bffcfa96d0a.png)
+![new_7](https://user-images.githubusercontent.com/70367328/92233634-9a334d00-eeeb-11ea-926f-9119f39190f8.png)
+
+### print
