@@ -4,3 +4,5 @@
 [Variational Autoencoderを使った画像の異常検知　前編](https://qiita.com/shinmura0/items/811d01384e20bfd1e035)
 
 [Variational Autoencoderを使った画像の異常検知　後編](https://qiita.com/shinmura0/items/6572d782ad21b15b004e)
+
+# Result
