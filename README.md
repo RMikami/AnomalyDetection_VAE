@@ -5,7 +5,7 @@
 
 [Variational Autoencoderを使った画像の異常検知　後編](https://qiita.com/shinmura0/items/6572d782ad21b15b004e)
 
-# Result
+# 結果
 ## ヒートマップによる異常個所の可視化
 ### crack
 ![old_2](https://user-images.githubusercontent.com/70367328/92232405-7111bd00-eee9-11ea-912f-e97b963bc42c.png)
@@ -24,4 +24,4 @@
 ![new_6](https://user-images.githubusercontent.com/70367328/92233826-f1392200-eeeb-11ea-9612-46cae03ab14a.png)
 
 ## ROC曲線の描画
-![roc](https://user-images.githubusercontent.com/70367328/92234221-994eeb00-eeec-11ea-81db-5b2ff487d69e.png)
+![roc](https://user-images.githubusercontent.com/70367328/92268969-3d04bf00-ef1e-11ea-805d-7932b0b88e9c.png)
