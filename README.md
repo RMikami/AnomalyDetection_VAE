@@ -23,5 +23,6 @@
 ![old_6](https://user-images.githubusercontent.com/70367328/92233814-ed0d0480-eeeb-11ea-92cc-db153d282b68.png)
 ![new_6](https://user-images.githubusercontent.com/70367328/92233826-f1392200-eeeb-11ea-9612-46cae03ab14a.png)
 
+どの異常画像においても、従来手法より提案手法の方が、異常個所をはっきりと認識出来ていることが分かった。しかし、
 ## ROC曲線の描画
 ![roc](https://user-images.githubusercontent.com/70367328/92268969-3d04bf00-ef1e-11ea-805d-7932b0b88e9c.png)
