@@ -24,3 +24,4 @@
 ![new_6](https://user-images.githubusercontent.com/70367328/92233826-f1392200-eeeb-11ea-9612-46cae03ab14a.png)
 
 ## ROC曲線の描画
+![roc](https://user-images.githubusercontent.com/70367328/92234221-994eeb00-eeec-11ea-81db-5b2ff487d69e.png)
