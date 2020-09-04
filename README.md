@@ -8,4 +8,4 @@
 # Result
 ## ヒートマップによる異常個所の可視化
 ### crack
-![a](images/old_2.png)
+![a](/Users/coj37/Documents/portfolio/anomaly_detection/vae/hazelnut/images/old_2.png)
