@@ -20,3 +20,5 @@
 ![new_7](https://user-images.githubusercontent.com/70367328/92233634-9a334d00-eeeb-11ea-926f-9119f39190f8.png)
 
 ### print
+![old_6](https://user-images.githubusercontent.com/70367328/92233814-ed0d0480-eeeb-11ea-92cc-db153d282b68.png)
+![new_6](https://user-images.githubusercontent.com/70367328/92233826-f1392200-eeeb-11ea-9612-46cae03ab14a.png)
