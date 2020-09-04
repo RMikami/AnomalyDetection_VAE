@@ -10,3 +10,7 @@
 ### crack
 ![old_2](https://user-images.githubusercontent.com/70367328/92232405-7111bd00-eee9-11ea-912f-e97b963bc42c.png)
 ![new_2](https://user-images.githubusercontent.com/70367328/92232411-753dda80-eee9-11ea-9351-19a57e100ba5.png)
+
+### cut
+![old_](https://user-images.githubusercontent.com/70367328/92232740-01e89880-eeea-11ea-9b67-aa2a94979d1d.png)
+![new_](https://user-images.githubusercontent.com/70367328/92232751-057c1f80-eeea-11ea-88d5-cbc696e9fe0a.png)
